@@ -1,0 +1,1 @@
+# minorpatch-static
